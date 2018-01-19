@@ -11,7 +11,7 @@ int main()
 {
     int x,y,result;
     char oper;
-    cout << "Hello! I'm calculator!" << endl;
+    cout << "Hello! I'm calculator!D" << endl;
     cout << "Please enter num1 operator num2: " << endl;
     cin >> x>>oper>>y;
     Calculator c;
