@@ -1,3 +1,4 @@
+//Kalkulatr oparty na klasie
 #include <iostream>
 
 using namespace std;
